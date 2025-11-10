@@ -133,3 +133,5 @@
 [Makarov retopology (Version 65 - Gltch wave 1) | Babylon.js Playground](https://playground.babylonjs.com/#AJZAAV#0)
 
 [Makarov retopology (Version 66 - The glitchy Makarov cube + Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#3IX0IG)
+
+[Makarov retopology (Version 67 - Dots points in gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#OWNZVO)
