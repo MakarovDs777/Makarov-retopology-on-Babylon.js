@@ -135,3 +135,5 @@
 [Makarov retopology (Version 66 - The glitchy Makarov cube + Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#3IX0IG)
 
 [Makarov retopology (Version 67 - Dots points in gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#OWNZVO)
+
+[Makarov retopology (Version 68 - An endless randomly generated line by gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#YWFYDO)
