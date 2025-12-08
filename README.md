@@ -116,7 +116,7 @@
 
 [Makarov retopology (Version 29 - An endless procedurally generated maze of lines) | Babylon.js Playground](https://playground.babylonjs.com/#BNQACV#0)
 
-
+![Запись_2025_12_09_02_50_27_808](https://github.com/user-attachments/assets/3adca9aa-da54-4648-ab69-1aa463886846)
 
 [Makarov retopology (Version 30 - Endless procedurally generated broken red line XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#ZIJK9F#0)
 
