@@ -1,6 +1,10 @@
 # Makarov-retopology-on-Babylon.js
 
+![Запись_2025_12_09_00_03_55_327](https://github.com/user-attachments/assets/191d695b-d447-4413-ad42-923c42ba03a0)
+
 [Makarov retopology (Version 0 - Glitch white noize wave) | Babylon.js Playground](https://playground.babylonjs.com/#I5HDTU#0)
+
+![Запись_2025_12_09_00_07_04_472](https://github.com/user-attachments/assets/8962397c-bea1-45d1-b69a-bc06a6bdf2e4)
 
 [Makarov retopology (Version 1 - The glitchy Makarov cube) | Babylon.js Playground](http://playground.babylonjs.com/#HK2BC8#0)
 
