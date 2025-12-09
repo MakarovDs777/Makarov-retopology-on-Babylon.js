@@ -204,72 +204,74 @@
 
 [Makarov retopology (Version 51 - Continuation of version 11 but with a very strange implementation) | Babylon.js Playground](https://playground.babylonjs.com/#1DTSJO#0)
 
-
+![Запись_2025_12_09_03_19_08_674](https://github.com/user-attachments/assets/981bb148-a09c-440b-a2e2-a4e777783685)
 
 [Makarov retopology (Version 52 - The dots are made of colored masks, but they are equal relative to each other) | Babylon.js Playground](https://playground.babylonjs.com/#6WLF0R#0)
 
-
+![Запись_2025_12_09_03_20_30_142](https://github.com/user-attachments/assets/59223ea0-60b5-45c4-8d84-59c5ebf053c3)
 
 [Makarov retopology (Version 53 - Generating multiple OBJ structures in random XYZ using colored dots) | Babylon.js Playground](https://playground.babylonjs.com/#JMEPAR#1)
 
-
+![Запись_2025_12_09_03_22_08_845](https://github.com/user-attachments/assets/b9b9cc6d-0257-45a1-8662-2ff40c9949a1)
 
 [Makarov retopology (Version 54 - Endless generation of OBJ structures by masks with uneven random generation of XYZ) | Babylon.js Playground](https://playground.babylonjs.com/#5C7R22#1)
 
-
+![Запись_2025_12_09_03_23_07_813](https://github.com/user-attachments/assets/d0a88579-2e32-4375-9310-2de5099271c5)
 
 [Makarov retopology (Version 55 - Endless procedural generation of OBJ masks with uniform placement) | Babylon.js Playgr | Babylon.js Playground](https://playground.babylonjs.com/#IHWRBO#0)
 
-
+![Запись_2025_12_09_03_23_57_149](https://github.com/user-attachments/assets/4f8329e5-5faf-4a9f-921c-faa10776e863)
 
 [Makarov retopology(Version 56-Endless procedural generation of OBJ masks with uniform placement by allpathernalization) | Babylon.js Playground](https://playground.babylonjs.com/#QS9H5T#0)
 
-
+![Запись_2025_12_09_03_25_52_68](https://github.com/user-attachments/assets/7f65f86a-21db-431a-84f7-c84d33a1da56)
 
 [Makarov retopology(Version 56-Endless procedural generation of OBJ masks with uniform placement FIXED) | Babylon.js Playground](https://playground.babylonjs.com/#NMI9TS#0)
 
-
+![Запись_2025_12_09_03_27_02_532](https://github.com/user-attachments/assets/e2be19c8-1900-450c-8d6c-6e2916651c25)
 
 [Makarov retopology (Version 57 - Cubic 3D grid of lines with spheres at the intersection points) | Babylon.js Playground](https://playground.babylonjs.com/#TCCQBJ#0)
 
-
+![Запись_2025_12_09_03_27_35_668](https://github.com/user-attachments/assets/74b64d87-4be4-4f9f-8af2-d865afdb14e1)
 
 [Makarov retopology (Version 58 - Cubic 3D grid of lines with randomly shifted spheres at the intersections of the lines) | Babylon.js Playground](https://playground.babylonjs.com/#Y38KS8#0)
 
-
+![Запись_2025_12_09_03_28_06_589](https://github.com/user-attachments/assets/2a6c999d-c3bc-49ee-9e42-6d4603d43526)
 
 [Makarov retopology (Version 59 - Crystal lattice of balls with random shaking) | Babylon.js Playground](https://playground.babylonjs.com/#VEU2K5#0)
 
-
+![Запись_2025_12_09_03_28_40_836](https://github.com/user-attachments/assets/8e0ea838-4e1e-414f-94f4-047bf3ee1d15)
 
 [Makarov retopology (Version 60 - A quivering cube of grids) | Babylon.js Playground](https://playground.babylonjs.com/#6O8JDP#0)
 
-
+![Запись_2025_12_09_03_29_12_260](https://github.com/user-attachments/assets/31c9a6ec-3c94-4775-aab3-b3b5bb157c8a)
 
 [Makarov retopology (Version 61 - A cube with balls, and a random number of balls are removed) | Babylon.js Playground](https://playground.babylonjs.com/#86XFYQ#1)
 
-
+![Запись_2025_12_09_03_30_00_179](https://github.com/user-attachments/assets/13c491a2-683c-4e2f-97dc-e6921377d0b7)
 
 [Makarov retopology (Version 62 - The thread Cube) | Babylon.js Playground](https://playground.babylonjs.com/#MIZDCM#0)
 
-
+![Запись_2025_12_09_03_30_54_660](https://github.com/user-attachments/assets/b23552be-f5e1-49d2-9b65-a3ff5569ccc1)
 
 [Makarov retopology (Version 63 - A plane wave of lines) | Babylon.js Playground](https://playground.babylonjs.com/#O2IEIT#0)
 
-
+![Запись_2025_12_09_03_31_42_852](https://github.com/user-attachments/assets/e4b14c12-30ae-47b3-990d-09671cd60872)
 
 [Makarov retopology (Version 64 - Floating grid of random lines) | Babylon.js Playground](https://playground.babylonjs.com/#E8TYFI#0)
 
-
+![Запись_2025_12_09_03_32_24_517](https://github.com/user-attachments/assets/ba7a738b-bef7-48bb-b83a-92c7143f1c12)
 
 [Makarov retopology (Version 65 - Gltch wave 1) | Babylon.js Playground](https://playground.babylonjs.com/#AJZAAV#0)
 
-
+![Запись_2025_12_09_03_34_00_955](https://github.com/user-attachments/assets/f76b0de8-eb62-40d0-97dd-a2169883631c)
 
 [Makarov retopology (Version 66 - The glitchy Makarov cube + Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#3IX0IG)
 
-
+![Запись_2025_12_09_03_34_41_636](https://github.com/user-attachments/assets/47c050c8-cb07-4108-b672-85d5f213eaf5)
 
 [Makarov retopology (Version 67 - Dots points in gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#OWNZVO)
+
+
 
 [Makarov retopology (Version 68 - An endless randomly generated line by gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#YWFYDO)
