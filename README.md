@@ -276,8 +276,14 @@
 
 [Makarov retopology (Version 68 - An endless randomly generated line by gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#YWFYDO)
 
+![Запись_2025_12_10_00_43_06_192](https://github.com/user-attachments/assets/ba4263f7-8be5-4b0d-b16a-685df42cbd69)
+
 [Makarov retopology (Version 69 - Per-instance cubes as a single cube) | Babylon.js Playground](https://playground.babylonjs.com/#APZYY8)
 
+![Запись_2025_12_10_00_44_33_89](https://github.com/user-attachments/assets/ec8e944d-9a43-445c-9d69-f0996ffbf767)
+
 [Makarov retopology (Version 70 - Endless procedurally generated cubes in random locations XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#07H2I2)
+
+![Запись_2025_12_10_00_46_06_472](https://github.com/user-attachments/assets/c99badc1-bf13-4578-92f5-fb00155e85ef)
 
 [Makarov retopology (Version 71 - Cube Mini Cave Generator) | Babylon.js Playground](https://playground.babylonjs.com/#9CZFAQ)
