@@ -272,6 +272,6 @@
 
 [Makarov retopology (Version 67 - Dots points in gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#OWNZVO)
 
-
+![Запись_2025_12_09_03_36_31_779](https://github.com/user-attachments/assets/e923ac2b-c55f-4a22-8fac-ecadad17d06e)
 
 [Makarov retopology (Version 68 - An endless randomly generated line by gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#YWFYDO)
