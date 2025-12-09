@@ -277,3 +277,5 @@
 [Makarov retopology (Version 68 - An endless randomly generated line by gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#YWFYDO)
 
 [Makarov retopology (Version 69 - Per-instance cubes as a single cube) | Babylon.js Playground](https://playground.babylonjs.com/#APZYY8)
+
+[Makarov retopology (Version 70 - Endless procedurally generated cubes in random locations XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#07H2I2)
