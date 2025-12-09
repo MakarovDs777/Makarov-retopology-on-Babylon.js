@@ -136,71 +136,71 @@
 
 [Makarov retopology (Version 34 - Endless procedurally generated lines by different masks with all types of lines) | Babylon.js Playground](https://playground.babylonjs.com/#0K0KOS#1)
 
-
+![Запись_2025_12_09_03_02_50_400](https://github.com/user-attachments/assets/9564db3a-175a-4ceb-9596-d3ac2cd5cddd)
 
 [Makarov retopology(Version 35 - Continuation of version 13, but the sides are one color and the other sides are another) | Babylon.js Playground](https://playground.babylonjs.com/#6OOR53#0)
 
-
+![Запись_2025_12_09_03_04_37_471](https://github.com/user-attachments/assets/d52a3ae5-26b3-4f05-94db-8b0e6fb4df18)
 
 [Makarov retopology (Version 36 - Continuation of the 35th version, but all the extreme points of the dots are colored) | Babylon.js Playground](https://playground.babylonjs.com/#QDGU4J#0)
 
-
+![Запись_2025_12_09_03_05_35_822](https://github.com/user-attachments/assets/70a8ccc6-d22f-49bf-821c-08408d42bf71)
 
 [Makarov retopology (Version 37 - Dots points by masks) | Babylon.js Playground](https://playground.babylonjs.com/#QQSA3U#0)
 
-
+![Запись_2025_12_09_03_06_37_655](https://github.com/user-attachments/assets/0cc766ab-0098-4289-b5a4-66358c5b843a)
 
 [Makarov retopology (Version 38 - Infinitely procedurally generated randomly generated dots clouds in XZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#SMGL3B#0)
 
-
+![Запись_2025_12_09_03_07_39_879](https://github.com/user-attachments/assets/1f9f3678-8e17-41ad-ae06-d55743a29092)
 
 [Makarov retopology (Version 39 - Endless procedurally generated randomly generated cubes of dots XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#T4K0UE#1)
 
-
+![Запись_2025_12_09_03_08_15_871](https://github.com/user-attachments/assets/6f20f130-6071-4b11-bca1-cdb86ebf0963)
 
 [Makarov retopology (Version 40 - Infinitely procedurally generated space from point masks dots) | Babylon.js Playground](https://playground.babylonjs.com/#RUOG0T#1)
 
-
+![Запись_2025_12_09_03_09_17_687](https://github.com/user-attachments/assets/f50e6368-e220-43f3-ad1a-9ed77b246323)
 
 [Makarov retopology (Version 41 - The structure of OBJ by masks from dots (template for rooms)) | Babylon.js Playground](https://playground.babylonjs.com/#GF4CV0#3)
 
-
+![Запись_2025_12_09_03_09_53_486](https://github.com/user-attachments/assets/e6630dbf-d46b-4458-a049-e6f900b35f46)
 
 [Makarov retopology (Version 42 - Glitch endless dots) | Babylon.js Playground](https://playground.babylonjs.com/#0Z44CF#0)
 
-
+![Запись_2025_12_09_03_10_31_479](https://github.com/user-attachments/assets/550a9479-20f9-4bb4-86d6-c3f41845cab8)
 
 [Makarov retopology (Version 43 - Continuation of the 36th version but endless procedurally generated) | Babylon.js Playground](https://playground.babylonjs.com/#0LGNT7#1)
 
-
+![Запись_2025_12_09_03_11_35_118](https://github.com/user-attachments/assets/ff311d64-f87f-4727-9db1-060773ed7519)
 
 [Makarov retopology (Version 44 - Endless procedural generation of dots masks with uniform placement) | Babylon.js Playground](https://playground.babylonjs.com/#HMM7SX#0)
 
-
+![Запись_2025_12_09_03_12_23_55](https://github.com/user-attachments/assets/f22fe5f9-89b7-4b99-9faf-f35cd5edcbcd)
 
 [Makarov retopology (Version 45 - Generating mask parts from dots in random locations) | Babylon.js Playground](https://playground.babylonjs.com/#GF7YXA#1)
 
-
+![Запись_2025_12_09_03_13_54_230](https://github.com/user-attachments/assets/60da20f4-69f9-4813-a3f3-b65782804ab5)
 
 [Makarov retopology (Version 46 - Generating point mask structures dots is a randomly version) | Babylon.js Playground](https://playground.babylonjs.com/#DEH8O5#0)
 
-
+![Запись_2025_12_09_03_14_46_30](https://github.com/user-attachments/assets/b61138e7-78a2-4985-b06f-5f7382d47dfe)
 
 [Makarov retopology (Version 47 - Endless procedural generating mask parts from dots in random locations) | Babylon.js Playground](https://playground.babylonjs.com/#DTGHRB#0)
 
-
+![Запись_2025_12_09_03_15_22_592](https://github.com/user-attachments/assets/29d61612-816f-43a7-9167-6825185efde1)
 
 [Makarov retopology (Version 48 - Endless procedural generation of masks from dots (in one piece) XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#QX0VLD#1)
 
-
+![Запись_2025_12_09_03_15_59_310](https://github.com/user-attachments/assets/e375d795-c251-45ea-b553-4841afed0ce5)
 
 [Makarov retopology (Version 49 - Generating cubes along a polyline in XZ coordinates) | Babylon.js Playground](https://playground.babylonjs.com/#3EG6P0#0)
 
-
+![Запись_2025_12_09_03_16_37_334](https://github.com/user-attachments/assets/2ab60f3c-e387-4f0c-a37a-ab3c3c145c9d)
 
 [Makarov retopology (Version 50 - Infinitely procedurally generated masks dots but random dots of random color) | Babylon.js Playground](https://playground.babylonjs.com/#W5HUVX#0)
 
-
+![Запись_2025_12_09_03_17_16_61](https://github.com/user-attachments/assets/976bd1ae-1d0d-4be2-b62d-158b48dae199)
 
 [Makarov retopology (Version 51 - Continuation of version 11 but with a very strange implementation) | Babylon.js Playground](https://playground.babylonjs.com/#1DTSJO#0)
 
