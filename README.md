@@ -291,3 +291,7 @@
 ![Запись_2025_12_10_00_46_06_472](https://github.com/user-attachments/assets/c99badc1-bf13-4578-92f5-fb00155e85ef)
 
 [Makarov retopology (Version 71 - Cube Mini Cave Generator) | Babylon.js Playground](https://playground.babylonjs.com/#9CZFAQ)
+
+![Запись_2025_12_10_21_30_27_153](https://github.com/user-attachments/assets/d04b63ec-79f5-4f1c-a46c-955048c5c36c)
+
+[Makarov retopology (Version 72 - Changing the grid by changing the object in Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#G9FWYZ)
