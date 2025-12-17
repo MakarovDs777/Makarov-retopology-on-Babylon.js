@@ -162,6 +162,8 @@
 
 ![Запись_2025_12_09_03_09_17_687](https://github.com/user-attachments/assets/f50e6368-e220-43f3-ad1a-9ed77b246323)
 
+[Makarov retopology (Version 41 - The structure of OBJ by masks from dots (template for pseudovoxels rooms)) | Babylon.js Playground](https://playground.babylonjs.com/#5BMBR0)
+
 [Makarov retopology (Version 41 - The structure of OBJ by masks from dots (template for rooms)) | Babylon.js Playground](https://playground.babylonjs.com/#GF4CV0#3)
 
 ![Запись_2025_12_10_20_49_03_358](https://github.com/user-attachments/assets/ffd22790-a0a9-4027-b824-17e80833b6dc)
