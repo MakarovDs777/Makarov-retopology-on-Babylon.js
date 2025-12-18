@@ -297,3 +297,5 @@
 ![Запись_2025_12_10_21_30_27_153](https://github.com/user-attachments/assets/d04b63ec-79f5-4f1c-a46c-955048c5c36c)
 
 [Makarov retopology (Version 72 - Changing the grid by changing the object in Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#G9FWYZ)
+
+[Makarov retopology (Version 73 - The structure of OBJ by masks from dots + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#CW7URO)
