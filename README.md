@@ -304,3 +304,8 @@
 
 [Makarov retopology (Version 74 - Color ocean grid-lines) | Babylon.js Playground](https://playground.babylonjs.com/#B8TZUP)
 
+![Запись_2025_12_19_13_29_25_493](https://github.com/user-attachments/assets/c245e1ae-c61a-4592-9838-f04cafa2b3be)
+
+[Makarov retopology (Version 75 - Floating dots endless procedural XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#F3UOKH)
+
+
