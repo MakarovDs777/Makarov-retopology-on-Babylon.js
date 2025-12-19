@@ -308,4 +308,6 @@
 
 [Makarov retopology (Version 75 - Floating dots endless procedural XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#F3UOKH)
 
+![Запись_2025_12_20_01_24_29_365](https://github.com/user-attachments/assets/56e67a0e-a783-439e-969f-675f94101714)
+
 [Makarov retopology (Version 76 - A ball of wriggling colored lines) | Babylon.js Playground](https://playground.babylonjs.com/#0YAOBJ#1)
