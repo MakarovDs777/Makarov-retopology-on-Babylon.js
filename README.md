@@ -299,3 +299,8 @@
 [Makarov retopology (Version 72 - Changing the grid by changing the object in Gizmo) | Babylon.js Playground](https://playground.babylonjs.com/#G9FWYZ)
 
 [Makarov retopology (Version 73 - The structure of OBJ by masks from dots + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#CW7URO#1)
+
+![Запись_2025_12_19_13_16_03_167](https://github.com/user-attachments/assets/073e90c1-b29d-442d-8bde-3118f48b3d37)
+
+[Makarov retopology (Version 74 - Color ocean grid-lines) | Babylon.js Playground](https://playground.babylonjs.com/#B8TZUP)
+
