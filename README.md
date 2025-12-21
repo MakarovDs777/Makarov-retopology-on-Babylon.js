@@ -313,3 +313,7 @@
 ![Запись_2025_12_20_01_24_29_365](https://github.com/user-attachments/assets/56e67a0e-a783-439e-969f-675f94101714)
 
 [Makarov retopology (Version 76 - A ball of wriggling colored lines) | Babylon.js Playground](https://playground.babylonjs.com/#0YAOBJ#1)
+
+![Запись_2025_12_21_13_14_45_535](https://github.com/user-attachments/assets/73a1093f-397f-442c-aa45-19d023052e35)
+
+[Makarov retopology (Version 77 - The structure of OBJ by masks from dots + Download button + bioms labels) | Babylon.js Playground](https://playground.babylonjs.com/#8OOZND)
