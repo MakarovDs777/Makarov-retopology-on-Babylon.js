@@ -317,3 +317,6 @@
 ![Запись_2025_12_21_13_14_45_535](https://github.com/user-attachments/assets/73a1093f-397f-442c-aa45-19d023052e35)
 
 [Makarov retopology (Version 77 - The structure of OBJ by masks from dots + Download button + bioms labels) | Babylon.js Playground](https://playground.babylonjs.com/#8OOZND)
+
+![Запись_2025_12_22_03_26_23_823](https://github.com/user-attachments/assets/6b1cba30-67ea-4f7e-92a6-8f688eeb01be)
+
