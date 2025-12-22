@@ -325,3 +325,5 @@
 ![Запись_2025_12_22_03_43_53_727](https://github.com/user-attachments/assets/ab745c03-a0b5-41db-9605-3f5fef53f8a6)
 
 [Makarov retopology (Version 79 - An endlessly flying rainbow wave) | Babylon.js Playground](https://playground.babylonjs.com/#W4PKTX)
+
+[Makarov retopology (Version 80 - A finely dispersed hissing wave of dense glitch) | Babylon.js Playground](https://playground.babylonjs.com/#839IDC)
