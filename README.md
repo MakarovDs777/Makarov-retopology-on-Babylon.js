@@ -320,3 +320,4 @@
 
 ![Запись_2025_12_22_03_26_23_823](https://github.com/user-attachments/assets/6b1cba30-67ea-4f7e-92a6-8f688eeb01be)
 
+[Makarov retopology (Version 78 - Dense glitch wave) | Babylon.js Playground](https://playground.babylonjs.com/#K51XCC)
