@@ -333,3 +333,5 @@
 ![Запись_2025_12_22_10_01_04_990](https://github.com/user-attachments/assets/174d0132-418b-4841-9d31-d1c8e3be8692)
 
 [Makarov retopology (Version 81 - Endless glitch ocean) | Babylon.js Playground](https://playground.babylonjs.com/#C2Q2KW#2)
+
+[Makarov retopology (Version 82 - Endless procedural XZ acute-angled line) | Babylon.js Playground](https://playground.babylonjs.com/#J1O8GZ)
