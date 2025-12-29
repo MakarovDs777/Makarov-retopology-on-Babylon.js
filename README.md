@@ -341,3 +341,5 @@
 [Makarov retopology (Version 83 - Endless procedural XZ acute-angled line + 20 version) | Babylon.js Playground](https://playground.babylonjs.com/#JUUPTR)
 
 [Makarov retopology (Version 84 - Endless procedural XZ in different directions) | Babylon.js Playground](https://playground.babylonjs.com/#SSXTSS)
+
+[Makarov retopology (Version 85 - Four paths from the center in different directions of the line are endless in XZ) | Babylon.js Playground](https://playground.babylonjs.com/#4A89NQ)
