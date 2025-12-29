@@ -345,3 +345,5 @@
 [Makarov retopology (Version 85 - Four paths from the center in different directions of the line are endless in XZ) | Babylon.js Playground](https://playground.babylonjs.com/#4A89NQ)
 
 [Makarov retopology (Version 86 - 85 version + 20 version) | Babylon.js Playground](https://playground.babylonjs.com/#21I3UI)
+
+[Makarov retopology (Version 87 - 85 version + 20 version + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#1HA1T8)
