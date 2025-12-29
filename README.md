@@ -346,4 +346,4 @@
 
 [Makarov retopology (Version 86 - 85 version + 20 version) | Babylon.js Playground](https://playground.babylonjs.com/#21I3UI)
 
-[Makarov retopology (Version 87 - 85 version + 20 version + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#1HA1T8)
+[Makarov retopology (Version 87 - 85 version + 20 version + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#1HA1T8#1)
