@@ -337,3 +337,5 @@
 ![Запись_2025_12_29_10_06_57_319](https://github.com/user-attachments/assets/edf45e15-48d1-4316-8db9-749e0c348f6d)
 
 [Makarov retopology (Version 82 - Endless procedural XZ acute-angled line) | Babylon.js Playground](https://playground.babylonjs.com/#J1O8GZ)
+
+[Makarov retopology (Version 83 - Endless procedural XZ acute-angled line + 20 version) | Babylon.js Playground](https://playground.babylonjs.com/#JUUPTR)
