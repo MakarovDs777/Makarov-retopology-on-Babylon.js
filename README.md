@@ -338,12 +338,22 @@
 
 [Makarov retopology (Version 82 - Endless procedural XZ acute-angled line) | Babylon.js Playground](https://playground.babylonjs.com/#J1O8GZ)
 
+![Запись_2025_12_30_14_32_49_759](https://github.com/user-attachments/assets/45e6be65-1cb0-497b-b4db-cb9e3dbc91fe)
+
 [Makarov retopology (Version 83 - Endless procedural XZ acute-angled line + 20 version) | Babylon.js Playground](https://playground.babylonjs.com/#JUUPTR)
+
+![Запись_2025_12_30_14_31_40_431](https://github.com/user-attachments/assets/d825282e-53fc-48d9-8f7e-414fe8b41459)
 
 [Makarov retopology (Version 84 - Endless procedural XZ in different directions) | Babylon.js Playground](https://playground.babylonjs.com/#SSXTSS)
 
+![Запись_2025_12_30_14_29_54_270](https://github.com/user-attachments/assets/53a4c72a-7fce-40a9-9c8b-b62d387001f3)
+
 [Makarov retopology (Version 85 - Four paths from the center in different directions of the line are endless in XZ) | Babylon.js Playground](https://playground.babylonjs.com/#4A89NQ)
 
+![Запись_2025_12_30_14_26_18_87](https://github.com/user-attachments/assets/356291df-3184-4faf-a6d0-0f012c83090a)
+
 [Makarov retopology (Version 86 - 85 version + 20 version) | Babylon.js Playground](https://playground.babylonjs.com/#21I3UI)
+
+![Запись_2025_12_30_14_24_32_855](https://github.com/user-attachments/assets/01259e86-09c3-43b0-a39e-8288cedee1a7)
 
 [Makarov retopology (Version 87 - 85 version + 20 version + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#1HA1T8#1)
