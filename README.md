@@ -172,6 +172,8 @@
 
 ![Запись_2025_12_09_03_09_53_486](https://github.com/user-attachments/assets/e6630dbf-d46b-4458-a049-e6f900b35f46)
 
+[Makarov retopology (Version 41 - The structure of OBJ by masks from dots (template for 3D corridors and rooms)) | Babylon.js Playground](https://playground.babylonjs.com/#B9WDCW)
+
 [Makarov retopology (Version 42 - Glitch endless dots) | Babylon.js Playground](https://playground.babylonjs.com/#0Z44CF#0)
 
 ![Запись_2025_12_09_03_10_31_479](https://github.com/user-attachments/assets/550a9479-20f9-4bb4-86d6-c3f41845cab8)
