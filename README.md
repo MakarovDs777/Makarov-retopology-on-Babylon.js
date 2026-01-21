@@ -368,6 +368,6 @@
 
 [Makarov retopology (Version 89 - Endless procedurally generated multi-colored dots XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#JQN53U)
 
-![Запись_2026_01_21_05_36_18_635](https://github.com/user-attachments/assets/8bce3d94-2ce3-42c3-8da1-da911a793932)
+![Запись_2026_01_21_05_43_58_843](https://github.com/user-attachments/assets/9fadb047-3b1c-453a-a06a-3da7c2b14e54)
 
 [Makarov retopology (Version 90 - Endless procedurally generated colored dots by XYZ randomly appearing and disappearing) | Babylon.js Playground](https://playground.babylonjs.com/#S63K1K)
