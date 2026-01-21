@@ -361,3 +361,5 @@
 [Makarov retopology (Version 87 - 85 version + 20 version + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#1HA1T8#1)
 
 [Makarov retopology (Version 88 - Constantly appearing and disappearing dots endless procedural XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#9H3I7A)
+
+[Makarov retopology (Version 89 - Endless procedurally generated multi-colored dots XYZ version) | Babylon.js Playground](https://playground.babylonjs.com/#JQN53U)
