@@ -379,3 +379,7 @@
 ![Запись_2026_01_25_16_28_23_347](https://github.com/user-attachments/assets/3b06edf0-2877-4195-b3a5-38595e0791e8)
 
 [Makarov retopology (Version 91 - Endless lines along XZ four lines with ladders of segments of periodic generation) | Babylon.js Playground](https://playground.babylonjs.com/#LSEDQG)
+
+![Запись_2026_01_25_18_05_54_926](https://github.com/user-attachments/assets/ae43b273-c57f-4c87-bd08-d75840e6fc48)
+
+[Makarov retopology (Version 92 - Endless Snowflake) | Babylon.js Playground](https://playground.babylonjs.com/#E95J3B)
