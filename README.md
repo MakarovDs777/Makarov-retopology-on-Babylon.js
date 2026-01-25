@@ -375,3 +375,5 @@
 ![Запись_2026_01_21_05_43_58_843](https://github.com/user-attachments/assets/9fadb047-3b1c-453a-a06a-3da7c2b14e54)
 
 [Makarov retopology (Version 90 - Endless procedurally generated colored dots by XYZ randomly appearing and disappearing) | Babylon.js Playground](https://playground.babylonjs.com/#S63K1K)
+
+[Makarov retopology (Version 91 - Endless lines along XZ four lines with ladders of segments of periodic generation) | Babylon.js Playground](https://playground.babylonjs.com/#LSEDQG)
