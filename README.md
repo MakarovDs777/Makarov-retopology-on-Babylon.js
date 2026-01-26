@@ -383,3 +383,7 @@
 ![Запись_2026_01_25_18_05_54_926](https://github.com/user-attachments/assets/ae43b273-c57f-4c87-bd08-d75840e6fc48)
 
 [Makarov retopology (Version 92 - Endless Snowflake) | Babylon.js Playground](https://playground.babylonjs.com/#E95J3B)
+
+![Запись_2026_01_26_06_13_17_873](https://github.com/user-attachments/assets/44fe98a3-3582-4f99-94a0-e8c45ee1af8f)
+
+[Makarov retopology (Version 93 - Endless Snowflake + 4 branching lines from the center) | Babylon.js Playground](https://playground.babylonjs.com/#Q3BM5H)
