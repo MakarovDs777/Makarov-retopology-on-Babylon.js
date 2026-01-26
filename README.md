@@ -391,3 +391,7 @@
 ![Запись_2026_01_26_06_50_39_378](https://github.com/user-attachments/assets/1077143d-591e-4337-9957-9e057e7024cc)
 
 [Makarov retopology (Version 94 - Endless Snowflake + 4 branching lines from the center + smooth labirint) | Babylon.js Playground](https://playground.babylonjs.com/#M11C26)
+
+![Запись_2026_01_26_07_19_28_508](https://github.com/user-attachments/assets/90e1c840-b9da-492b-9893-796e0ba04d4a)
+
+[Makarov retopology (Version 95 - Endless Snowflake + 85 version + 20 version + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#FW7G3J)
