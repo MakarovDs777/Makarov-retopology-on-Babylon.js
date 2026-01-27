@@ -407,3 +407,7 @@
 ![Запись_2026_01_27_18_47_50_880](https://github.com/user-attachments/assets/a9d5fd41-f7ac-40ff-8fb6-4af37c7cf5b8)
 
 [Makarov retopology (Version 98 - Multi-storey masks made of lines) | Babylon.js Playground](https://playground.babylonjs.com/#WKASZ9)
+
+![Запись_2026_01_27_19_53_00_390](https://github.com/user-attachments/assets/95632b58-8d1b-4f77-b5b0-ad94bb961120)
+
+[Makarov retopology (Version 99 - Masks of lines by measurements) | Babylon.js Playground](https://playground.babylonjs.com/#NSF5YG)
