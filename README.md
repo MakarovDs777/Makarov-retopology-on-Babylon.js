@@ -403,3 +403,7 @@
 ![Запись_2026_01_27_08_17_35_409](https://github.com/user-attachments/assets/98f7c304-c927-4543-a4a2-a676ed9bff55)
 
 [Makarov retopology (Version 97 - Endless broken Snowflake + 4 branching lines from the center + Rainbow spheres) | Babylon.js Playground](https://playground.babylonjs.com/#204TMH)
+
+![Запись_2026_01_27_18_47_50_880](https://github.com/user-attachments/assets/a9d5fd41-f7ac-40ff-8fb6-4af37c7cf5b8)
+
+[Makarov retopology (Version 98 - Multi-storey masks made of lines) | Babylon.js Playground](https://playground.babylonjs.com/#WKASZ9)
