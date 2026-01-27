@@ -415,3 +415,7 @@
 ![Запись_2026_01_27_20_57_59_954](https://github.com/user-attachments/assets/984a56ce-3d07-459f-9151-dc197119fbfa)
 
 [Makarov retopology (Version 100 - One dimension of diversity, and an infinite number of dimensions of monotony) | Babylon.js Playground](https://playground.babylonjs.com/#M2W4G3)
+
+![Запись_2026_01_27_23_34_31_183](https://github.com/user-attachments/assets/a2746231-0e11-4015-8987-20205ffe03f6)
+
+[Makarov retopology (Version 101 - One dimension of diversity and an infinite amount of monotony without repetition) | Babylon.js Playground](https://playground.babylonjs.com/#OW1FPY)
