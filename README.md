@@ -411,3 +411,7 @@
 ![Запись_2026_01_27_19_53_00_390](https://github.com/user-attachments/assets/95632b58-8d1b-4f77-b5b0-ad94bb961120)
 
 [Makarov retopology (Version 99 - Masks of lines by measurements) | Babylon.js Playground](https://playground.babylonjs.com/#NSF5YG)
+
+![Запись_2026_01_27_20_57_59_954](https://github.com/user-attachments/assets/984a56ce-3d07-459f-9151-dc197119fbfa)
+
+[Makarov retopology (Version 100 - One dimension of diversity, and an infinite number of dimensions of monotony) | Babylon.js Playground](https://playground.babylonjs.com/#M2W4G3)
