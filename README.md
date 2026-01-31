@@ -419,3 +419,7 @@
 ![Запись_2026_01_27_23_34_31_183](https://github.com/user-attachments/assets/a2746231-0e11-4015-8987-20205ffe03f6)
 
 [Makarov retopology (Version 101 - One dimension of diversity and an infinite amount of monotony without repetition) | Babylon.js Playground](https://playground.babylonjs.com/#OW1FPY)
+
+![Запись_2026_01_31_21_17_03_660](https://github.com/user-attachments/assets/29887dda-14ff-4db3-a53b-0caec90903f3)
+
+[Makarov retopology(Version 102- Endless procedurally generated all possible variations of all possible masks from lines) | Babylon.js Playground](https://playground.babylonjs.com/#D6N8MX)
