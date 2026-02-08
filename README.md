@@ -424,4 +424,4 @@
 
 [Makarov retopology(Version 102- Endless procedurally generated all possible variations of all possible masks from lines) | Babylon.js Playground](https://playground.babylonjs.com/#D6N8MX)
 
-[Makarov retopology (Version 103 - Changing the grid by changing the OBJ in Gizmo + OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#P6AY3U)
+[Makarov retopology (Version 103 - Changing the grid by changing the OBJ in Gizmo + OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#P6AY3U#1)
