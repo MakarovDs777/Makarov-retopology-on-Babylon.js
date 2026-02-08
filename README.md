@@ -427,3 +427,5 @@
 [Makarov retopology (Version 103 - Changing the grid by changing the OBJ in Gizmo + OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#P6AY3U#1)
 
 [Makarov retopology (Version 104 -The grid appears in the visible area of the loaded OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#UV24OF)
+
+[Makarov retopology (Version 105 - The dots appears in the visible area of the loaded OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#5Z1RGV)
