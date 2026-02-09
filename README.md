@@ -424,8 +424,14 @@
 
 [Makarov retopology(Version 102- Endless procedurally generated all possible variations of all possible masks from lines) | Babylon.js Playground](https://playground.babylonjs.com/#D6N8MX)
 
+![Запись_2026_02_09_17_23_10_901](https://github.com/user-attachments/assets/4b65d632-5b0c-43cd-8c34-a9f3cc6f904e)
+
 [Makarov retopology (Version 103 - Changing the grid by changing the OBJ in Gizmo + OBJ button) | Babylon.js Playground](https://playground.babylonjs.com/#P6AY3U#1)
 
+![Запись_2026_02_09_17_21_13_732](https://github.com/user-attachments/assets/16bbbcfa-4d26-4635-8f30-aaaa8a449513)
+
 [Makarov retopology (Version 104 -The grid appears in the visible area of the loaded OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#UV24OF)
+
+![Запись_2026_02_09_17_18_42_933](https://github.com/user-attachments/assets/48982747-347d-4ab6-8b7d-db730706dd17)
 
 [Makarov retopology (Version 105 - The dots appears in the visible area of the loaded OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#5Z1RGV)
