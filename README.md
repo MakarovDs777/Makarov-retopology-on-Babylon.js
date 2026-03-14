@@ -435,3 +435,5 @@
 ![Запись_2026_02_09_17_18_42_933](https://github.com/user-attachments/assets/48982747-347d-4ab6-8b7d-db730706dd17)
 
 [Makarov retopology (Version 105 - The dots appears in the visible area of the loaded OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#5Z1RGV)
+
+[Makarov retopology (Version 106 - Masks lines with vertical and horizontal lines) | Babylon.js Playground](https://playground.babylonjs.com/#U3EBFY)
