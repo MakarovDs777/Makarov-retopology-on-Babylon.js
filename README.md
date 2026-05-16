@@ -439,3 +439,5 @@
 [Makarov retopology (Version 106 - Masks lines with vertical and horizontal lines) | Babylon.js Playground](https://playground.babylonjs.com/#U3EBFY)
 
 [Makarov retopology (Version 107 - Numbers OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#8NN033#2)
+
+[Makarov retopology (Version 108 - Generate random balls in an endless line up) | Babylon.js Playground](https://playground.babylonjs.com/#TC857N)
