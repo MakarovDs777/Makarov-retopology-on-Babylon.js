@@ -445,3 +445,5 @@
 [Makarov retopology (Version 109 - Wall Spheres Animated) | Babylon.js Playground](https://playground.babylonjs.com/#E2NQKR#1)
 
 [Makarov retopology (Version 110 - LSD spiders) | Babylon.js Playground](https://playground.babylonjs.com/#LZ2ZBR)
+
+[Makarov retopology (Version 111 - Endless Sphere Dots XYZ Version) | Babylon.js Playground](https://playground.babylonjs.com/#48BNKW)
