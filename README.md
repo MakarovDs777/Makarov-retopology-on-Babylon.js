@@ -447,3 +447,5 @@
 [Makarov retopology (Version 110 - LSD spiders) | Babylon.js Playground](https://playground.babylonjs.com/#LZ2ZBR)
 
 [Makarov retopology (Version 111 - Endless Sphere Dots XYZ Version) | Babylon.js Playground](https://playground.babylonjs.com/#48BNKW)
+
+[Makarov retopology (Version 112 - Endless Sphere Torn Dots XYZ Version) | Babylon.js Playground](https://playground.babylonjs.com/#IR6Y35)
