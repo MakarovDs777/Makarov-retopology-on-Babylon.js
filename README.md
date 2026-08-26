@@ -450,4 +450,4 @@
 
 [Makarov retopology (Version 112 - Endless Sphere Torn Dots XYZ Version) | Babylon.js Playground](https://playground.babylonjs.com/#IR6Y35)
 
-[Makarov retopology (Version 113 - Русский алфавит OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#Q8913E)
+[Makarov retopology (Version 113 - Русский алфавит OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#Q8913E#1)
