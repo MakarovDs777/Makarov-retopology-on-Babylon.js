@@ -453,3 +453,5 @@
 [Makarov retopology (Version 113 - Русский алфавит OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#Q8913E#1)
 
 [Makarov retopology (Version 114 - Русский алфавит OBJ fixed version) | Babylon.js Playground](https://playground.babylonjs.com/#IDJH58#2)
+
+[Makarov retopology (Version 115 - Русский алфавит OBJ fixed version + URL texture) | Babylon.js Playground](https://playground.babylonjs.com/#GY102Q)
